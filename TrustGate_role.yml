@@ -1,6 +1,6 @@
 ---
 - name:   Prepare OS and Download TrustGate for Astra Linux by HSM
-  hosts:  all
+  hosts:  TrustGate
   become: yes
 
 
